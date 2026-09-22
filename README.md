@@ -9,7 +9,6 @@
 - [개발 & 코딩](#-개발--코딩)
 - [DBA & 데이터베이스](#️-dba--데이터베이스)
 - [데이터사이언스 & ML](#-데이터사이언스--ml)
-- [개발자 검색 & 시스템 설계](#️-개발자-검색--시스템-설계)
 
 ---
 
@@ -53,8 +52,3 @@
 * [Julius AI](https://julius.ai) - CSV/데이터셋 업로드 후 자연어로 EDA, 통계 분석, 차트 생성을 수행하는 AI
 * [PandasAI](https://pandas-ai.com) - 파이썬 Pandas 데이터프레임을 자연어 명령으로 전처리·분석하는 라이브러리
 * [DataRobot](https://www.datarobot.com) - 머신러닝 모델링 및 MLOps 자동화 프로세스를 경험할 수 있는 대표 AutoML 플랫폼
-
-### 🛠️ 개발자 검색 & 시스템 설계
-* [Phind](https://www.phind.com) - 개발 문서, 공식 API, StackOverflow 데이터를 기반으로 답변하는 개발자 전용 AI
-* [Draw.io (diagrams.net)](https://app.diagrams.net) - 프롬프트나 스케치를 기반으로 시스템 아키텍처 및 ERD 흐름도를 그리는 툴
-* [GitKraken AI](https://www.gitkraken.com) - Git 커밋 메시지 자동 작성 및 병합 충돌 분석을 돕는 GUI 툴
