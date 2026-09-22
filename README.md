@@ -4,7 +4,7 @@
 
 ---
 
-### ✍️ 텍스트 & 생산성
+### 📃 텍스트 & 생산성
 * [ChatGPT](https://chatgpt.com) - 기획, 문서 초안 작성, 복잡한 문제 해결 및 일반 질의응답에 최적화
 * [Claude](https://claude.ai) - 긴 문서 분석, 자연스러운 학술/기술 문서 작성 및 코딩에 특화
 * [Perplexity](https://www.perplexity.ai) - 실시간 웹 검색과 인공지능을 결합해 정확한 정보와 출처를 함께 제공
