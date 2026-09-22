@@ -5,22 +5,22 @@
 ---
 
 ### ✍️ 텍스트 & 생산성
-* [ChatGPT](https://chatgpt.com) - OpenAI의 범용 대화형 AI 챗봇
-* [Claude](https://claude.ai) - 긴 문서 분석, 코딩, 자연스러운 글쓰기에 뛰어난 AI
-* [Perplexity](https://www.perplexity.ai) - 실시간 출처 바탕의 정교한 리서치 전용 AI 검색엔진
-* [DeepSeek](https://chat.deepseek.com) - 고성능 추론 및 가성비로 주목받는 AI
-* [Gemini](https://gemini.google.com) - Google 생태계 및 멀티모달 분석에 강한 AI
-* [DeepL](https://www.deepl.com) - 자연스럽고 정교한 문맥 파악 전문 번역기
+* [ChatGPT](https://chatgpt.com) - 기획, 문서 초안 작성, 복잡한 문제 해결 및 일반 질의응답에 최적화
+* [Claude](https://claude.ai) - 긴 문서 분석, 자연스러운 학술/기술 문서 작성 및 코딩에 특화
+* [Perplexity](https://www.perplexity.ai) - 실시간 웹 검색과 인공지능을 결합해 정확한 정보와 출처를 함께 제공
+* [DeepSeek](https://chat.deepseek.com) - 수학, 논리 추론, 복잡한 데이터 분석 및 알고리즘 해결
+* [Gemini](https://gemini.google.com) - 구글 워크스페이스 연동, 이미지·음성 분석 및 구글 생태계 기반 리서치에 최적화
+* [DeepL](https://www.deepl.com) - 기술 문서, 논문, 영문 개발 가이드의 문맥을 자연스럽고 정교하게 번역
 
 ### 🎨 시각화 & 개발자 디자인
-* [Mermaid.live](https://mermaid.live) - 텍스트 코드로 DB ERD, 순서도, 시퀀스 다이어그램을 생성하는 시각화 툴
-* [Excalidraw](https://excalidraw.com) - 시스템 아키텍처, DB 구조, 데이터 파이프라인 설계를 돕는 오픈소스 다이어그램 툴
-* [v0.dev](https://v0.dev) - 프롬프트로 웹 UI 디자인과 React 코드를 자동 생성해 주는 개발자용 UI 툴
+* [Mermaid.live](https://mermaid.live) - 텍스트 코딩(Markdown)으로 DB ERD, 순서도, 시퀀스 다이어그램을 빠르게 생성하는 시각화 툴
+* [Excalidraw](https://excalidraw.com) - 시스템 아키텍처, 데이터 파이프라인, DB 스키마 구조를 손그림 느낌으로 깔끔하게 그려주는 오픈소스 캔버스 도구
+* [v0.dev](https://v0.dev) - 프롬프트나 스케치 이미지로 React 및 Tailwind CSS 기반 웹 UI 코드를 생성해 주는 개발자용 UI 툴
 * [remove.bg](https://www.remove.bg) - 발표 자료나 포트폴리오용 이미지 배경(누끼) 자동 제거 사이트
 
 ### 📊 PPT & 프레젠테이션
-* [Canva AI](https://canva.com) - 디자인 플랫폼 캔바에 내장되어 텍스트나 키워드로 슬라이드를 자동 구성하고 강력한 자체 에디터로 자유롭게 후편집할 수 있는 AI
-* [Gamma](https://gamma.app) - 프롬프트 몇 줄로 발표자료, 웹페이지, 문서를 자동 작성하고 PPTX 파일로 내려받아 고치기 쉬운 AI
+* [Canva AI](https://canva.com) - 디자인 플랫폼 캔바에 내장되어 텍스트나 키워드로 슬라이드를 자동 구성하고 자체 에디터로 자유롭게 후편집할 수 있는 툴
+* [Gamma](https://gamma.app) - 프롬프트 입력으로 발표자료, 웹페이지, 문서를 자동 작성하고 PPTX 파일로 내려받아 고치기 쉬운 도구
 * [Napkin AI](https://www.napkin.ai) - 텍스트 입력 시 자동으로 인포그래픽과 픽토그램을 그려주며 요소별 색상·아이콘 변경이 자유로운 툴
 * [Slidesgo AI](https://slidesgo.com) - 주제와 디자인 분위기만 선택하면 고품질 슬라이드를 만들고 파워포인트/구글 슬라이드로 내보낼 수 있는 AI
 
