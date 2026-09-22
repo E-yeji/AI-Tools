@@ -21,11 +21,11 @@
 ### 📊 PPT & 프레젠테이션
 * [Canva AI](https://canva.com) - 디자인 플랫폼 캔바에 내장되어 텍스트나 키워드로 슬라이드를 자동 구성하고 자체 에디터로 자유롭게 후편집할 수 있는 툴
 * [Gamma](https://gamma.app) - 프롬프트 입력으로 발표자료, 웹페이지, 문서를 자동 작성하고 PPTX 파일로 내려받아 고치기 쉬운 도구
-* [Napkin AI](https://www.napkin.ai) - 텍스트 입력 시 자동으로 인포그래픽과 픽토그램을 그려주며 요소별 색상·아이콘 변경이 자유로운 툴
-* [Slidesgo AI](https://slidesgo.com) - 주제와 디자인 분위기만 선택하면 고품질 슬라이드를 만들고 파워포인트/구글 슬라이드로 내보낼 수 있는 AI
+* [Napkin AI](https://www.napkin.ai) - 텍스트 입력을 통해 다이어그램과 픽토그램을 그려주며, 개별 아이콘과 색상 수정 등이 자유로움
+* [Slidesgo AI](https://slidesgo.com) - 주제와 디자인 분위기를 선택하면 파워포인트/구글 슬라이드로 내보낼 수 있는 AI
 
 ### 💻 개발 & 코딩
-* [Cursor](https://www.cursor.com) - 프로젝트 전체 문맥 파악 및 복잡한 정밀 수정에 특화
+* [Cursor](https://www.cursor.com) - 프로젝트 전체 코드의 문맥 파악 및 복잡한 정밀 수정에 특화
 * [Windsurf](https://codeium.com/windsurf) - 에이전트 기반의 능동적 코드 수정 및 리팩토링 특화 IDE
 * [GitHub Copilot](https://github.com/features/copilot) - 개발 환경(IDE) 내 실시간 코드 자동완성 도구
 * [v0.dev](https://v0.dev) - 프롬프트/이미지로 React+Tailwind UI 생성, 프론트엔드 화면 디자인 및 스니펫 추출에 최적화
