@@ -25,9 +25,9 @@
 * [Slidesgo AI](https://slidesgo.com) - 주제와 디자인 분위기를 선택하면 파워포인트/구글 슬라이드로 내보낼 수 있는 AI
 
 ### 💻 개발 & 코딩
-* [Cursor](https://www.cursor.com) - 프로젝트 전체 코드의 문맥 파악 및 복잡한 정밀 수정에 특화
-* [Windsurf](https://codeium.com/windsurf) - 에이전트 기반의 능동적 코드 수정 및 리팩토링 특화 IDE
-* [GitHub Copilot](https://github.com/features/copilot) - 개발 환경(IDE) 내 실시간 코드 자동완성 도구
-* [v0.dev](https://v0.dev) - 프롬프트/이미지로 React+Tailwind UI 생성, 프론트엔드 화면 디자인 및 스니펫 추출에 최적화
-* [Lovable](https://lovable.dev) - 자연어 설명만으로 완성형 웹 앱을 생성·배포해 주는 풀스택 AI
-* [Bolt.new](https://bolt.new) - 브라우저 상에서 앱 전반 코딩과 실시간 실행 환경을 제공하는 AI
+* [Cursor](https://www.cursor.com) - 프로젝트 전체 코드의 문맥 파악 및 복잡한 정밀 수정, 리팩토링, 디버깅에 특화
+* [Windsurf](https://codeium.com/windsurf) - 에이전트 기반의 능동적 코드 수정 및 리팩토링, 터미널 작업을 통한 복잡한 구조 변경에 최적화
+* [v0.dev](https://v0.dev) - 프롬프트나 이미지로 React·Tailwind 기반 UI를 설계하고 바로 복사해 쓸 수 있는 코드를 추출하여 웹 프론트엔드 개발에 최적화
+* [Lovable](https://lovable.dev) - 자연어 설명만으로 백엔드(DB)와 프론트엔드가 연동된 완성형 웹 서비스를 구축하고 즉시 배포
+해 주는 풀스택 AI
+* [Bolt.new](https://bolt.new) - 웹 브라우저 상에서 앱 전반 코딩, Node.js 서버 구동 및 실시간 실행을 동시에 수행하는 AI
